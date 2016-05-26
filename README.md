@@ -99,4 +99,4 @@ int x,y;
 	system ("PAUSE");
 }
 ```
-![](Program no. 4 Print.PNG)
+![](Program no. 4 print.PNG)
